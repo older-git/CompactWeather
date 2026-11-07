@@ -1,0 +1,12 @@
+# Build output
+.build-xcode/
+DerivedData/
+xcuserdata/
+*.xcuserstate
+.DS_Store
+
+# Per-developer / generated config
+Config/Local.xcconfig
+Config/BuildNumber.xcconfig
+
+.claude/
